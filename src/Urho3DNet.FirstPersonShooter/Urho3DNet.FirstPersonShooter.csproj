@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+    <!-- Exclude Data folder and all it's content -->
+    <ItemGroup>
+        <Compile Remove="Data\**" />
+        <EmbeddedResource Remove="Data\**" />
+        <None Remove="Data\**" />
+    </ItemGroup>
+
+    <ItemGroup >
+        <Content Include="Data\**">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+            <!-- UWP properties. Currenty MSBuild.Sdk.Extras doesn't support uap10 target framework but we can use netstandard2.0 as a workaround. -->
+            <Pack>true</Pack>
+            <PackagePath>Data/%(RecursiveDir)%(FileName)%(Extension)</PackagePath>
+        </Content>
+    </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="unofficial.Urho3DNet" Version="0.3.7.249" />
+  </ItemGroup>
+
+</Project>

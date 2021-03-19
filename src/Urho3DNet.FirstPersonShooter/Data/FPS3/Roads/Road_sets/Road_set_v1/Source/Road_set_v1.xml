@@ -1,0 +1,437 @@
+<node id="431">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="Road_set_v1" />
+	<attribute name="Tags"><string value="Untagged" /></attribute>
+	<attribute name="Position" value="0 0 0" />
+	<attribute name="Rotation" value="1 0 0 0" />
+	<attribute name="Scale" value="1 1 1" />
+	<node id="432">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_b_bend_1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="12.4312 -0.09181915 -11.72516" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="433">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_b_bend_1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="434">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_b_bend_1f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="12.4312 1.918525E-07 -11.72517" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="435">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_b_bend_1f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="436">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_b_bend_2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="12.4312 -0.09181919 10.94572" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="437">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_b_bend_2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="438">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_b_bend_2f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="12.4312 3.828667E-06 10.94572" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="439">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_b_bend_2f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="440">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_b_bend_3" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="35.22662 -0.09181578 -11.68683" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="441">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_b_bend_3.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="442">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_b_bend_3f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="35.22662 2.426561E-06 -11.68683" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="443">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_b_bend_3f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="444">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_b_floor" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="57.65642 7.897615E-07 -11.60191" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="445">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_b_floor.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="446">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_1m_HD" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-47.46601 0.4081802 -6.973511" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="447">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_1m_HD.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="448">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_1m_HD_f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-47.46602 0.4999974 -16.97353" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="449">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_1m_HD_f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="450">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_1m_LD" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-11.31333 0.4081802 -7.419041" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="451">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_1m_LD.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="452">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_1m_LD_f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-11.31333 0.4999986 -17.41904" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="453">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_1m_LD_f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="454">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_1m_LD_f 1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-11.31333 0.9999985 6.095925" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="455">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_1m_LD_f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="456">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_2m_HD" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-47.31665 0.9081804 16.24535" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="457">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_2m_HD.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="458">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_2m_HD_f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-47.31665 0.9999993 6.245356" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="459">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_2m_HD_f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="460">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_2m_LD" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-11.31333 0.9081802 16.09593" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="461">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_2m_LD.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="462">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_3m_HD" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-47.55747 1.40818 40.68721" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="463">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_3m_HD.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="464">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_3m_HD_f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-47.55748 1.499999 30.68721" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="465">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_3m_HD_f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="466">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_3m_LD" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-11.31333 1.40818 39.45817" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="467">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_3m_LD.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="468">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_road_up_3m_LD_f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-11.31333 1.499997 29.45817" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="469">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_road_up_3m_LD_f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="470">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_bend_1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="31.71708 -0.09181955 7.41315" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="471">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_bend_1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="472">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_bend_1f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="31.71707 9.49949E-08 7.41315" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="473">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_bend_1f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="474">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_bend_2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="43.11885 -0.09182626 7.347809" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="475">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_bend_2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="476">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_floor" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="74.632 4.928474E-05 -6.485222" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="477">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_floor.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="478">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_road_up_1m_HD" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-66.76019 0.4081837 -7.047935" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="479">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_road_up_1m_HD.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="480">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_road_up_1m_HD_f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-66.76019 0.500003 -17.04794" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="481">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_road_up_1m_HD_f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="482">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_road_up_1m_LD" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-28.30008 0.4081788 -7.466015" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="483">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_road_up_1m_LD.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="484">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_road_up_1m_LD_f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-28.30008 0.4999981 -17.46601" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="485">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_road_up_1m_LD_f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="486">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_road_up_2m_HD" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-66.50146 0.9081813 16.24492" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="487">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_road_up_2m_HD.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="488">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_road_up_2m_HD_f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-66.50146 1 6.244919" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="489">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_road_up_2m_HD_f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="490">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_road_up_2m_LD" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-28.92995 0.9081788 16.27725" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="491">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_road_up_2m_LD.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="492">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_road_up_2m_LD_f" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-28.92995 0.9999976 6.277248" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="493">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_road_up_2m_LD_f.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="494">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_tile_1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="53.68039 -0.09182113 7.347809" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="495">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_tile_1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="496">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Road_set_v1_s_tile_2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="69.60458 -0.09181976 7.347805" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="497">
+			<attribute name="Model" value="Model;FPS3/Roads/Road_sets/Road_set_v1/Source/Road_set_v1/Road_set_v1_s_tile_2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+</node>

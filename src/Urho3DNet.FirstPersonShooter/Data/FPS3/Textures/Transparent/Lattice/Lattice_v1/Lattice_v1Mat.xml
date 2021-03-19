@@ -1,0 +1,9 @@
+<material>
+	<technique name="Techniques/Diff.xml" />
+	<texture unit="diffuse" name="FPS3/Textures/Transparent/Lattice/Lattice_v1/Lattice_v1.dds" />
+	<parameter name="MatDiffColor" value="0.6323529 0.6323529 0.6323529 1" />
+<parameter name="MatEmissiveColor" value="0 0 0" />
+	<parameter name="UOffset" value="1 0 0 0" />
+	<parameter name="VOffset" value="0 1 0 0" />
+	<shader psdefines="ALPHAMASK" />
+</material>

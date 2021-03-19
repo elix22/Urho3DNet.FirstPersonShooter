@@ -1,0 +1,104 @@
+<node id="1">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="Hangar_v2_7" />
+	<attribute name="Tags"><string value="Untagged" /></attribute>
+	<attribute name="Position" value="0 0 0" />
+	<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+	<attribute name="Scale" value="1 1 1" />
+	<component type="StaticModel" id="2">
+		<attribute name="Model" value="Model;FPS3/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_7/Hangar_v2_7.mdl" />
+		<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+		<attribute name="Cast Shadows" value="true" />
+	</component>
+	<node id="3">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Hangar_v2_7_door1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="9.590256 1.313564 3.72677" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="4">
+			<attribute name="Model" value="Model;FPS3/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_7/Hangar_v2_7_door1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="5">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Hangar_v2_7_gate1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-5.334656 1.729187 -6.605587" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="6">
+			<attribute name="Model" value="Model;FPS3/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_7/Hangar_v2_7_gate1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="7">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Hangar_v2_7_gate2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="5.310547 1.729187 -6.605587" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="8">
+			<attribute name="Model" value="Model;FPS3/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_7/Hangar_v2_7_gate2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="9">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Hangar_v2_7_gate3" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="5.310539 1.729187 6.605744" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="10">
+			<attribute name="Model" value="Model;FPS3/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_7/Hangar_v2_7_gate3.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="11">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Hangar_v2_7_gate4" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-5.334663 1.729187 6.605744" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="12">
+			<attribute name="Model" value="Model;FPS3/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_7/Hangar_v2_7_gate4.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="13">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Hangar_v2_7_inside" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0.01119995 3.945152 -0.009982347" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="14">
+			<attribute name="Model" value="Model;FPS3/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_7/Hangar_v2_7_inside.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="15">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Hangar_v2_7_supports" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.03684235 0 -0.01110077" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="16">
+			<attribute name="Model" value="Model;FPS3/Buildings/Industrial/Hangars/Hangar_v2/Source/Hangar_v2_7/Hangar_v2_7_supports.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+</node>

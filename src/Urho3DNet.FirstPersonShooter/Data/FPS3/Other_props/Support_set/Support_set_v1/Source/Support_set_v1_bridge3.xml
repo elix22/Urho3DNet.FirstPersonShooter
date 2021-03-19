@@ -1,0 +1,125 @@
+<node id="259">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="Support_set_v1_bridge3" />
+	<attribute name="Tags"><string value="Untagged" /></attribute>
+	<attribute name="Position" value="0 0 0" />
+	<attribute name="Rotation" value="1 0 0 0" />
+	<attribute name="Scale" value="1 1 1" />
+	<node id="260">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Support_set_v1_bridge3_1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.0006656423 2.143101 -7.805963" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="261">
+			<attribute name="Model" value="Model;FPS3/Other_props/Support_set/Support_set_v1/Source/Support_set_v1_bridge3/Support_set_v1_bridge3_1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="262">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Support_set_v1_bridge3_2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.0006656423 3.759142 -2.577119" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="263">
+			<attribute name="Model" value="Model;FPS3/Other_props/Support_set/Support_set_v1/Source/Support_set_v1_bridge3/Support_set_v1_bridge3_2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="264">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Support_set_v1_bridge3_3" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.0006656423 3.555824 2.687301" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="265">
+			<attribute name="Model" value="Model;FPS3/Other_props/Support_set/Support_set_v1/Source/Support_set_v1_bridge3/Support_set_v1_bridge3_3.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="266">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Support_set_v1_bridge3_4" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.0006656423 3.312968 7.863051" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="267">
+			<attribute name="Model" value="Model;FPS3/Other_props/Support_set/Support_set_v1/Source/Support_set_v1_bridge3/Support_set_v1_bridge3_4.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="268">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Support_set_v1_bridge3_5" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-4.44565 2.998569 -8.560324" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="269">
+			<attribute name="Model" value="Model;FPS3/Other_props/Support_set/Support_set_v1/Source/Support_set_v1_bridge3/Support_set_v1_bridge3_5.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="270">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Support_set_v1_bridge3_B1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-6.567776 3.759146 -3.388451" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="271">
+			<attribute name="Model" value="Model;FPS3/Other_props/Support_set/Support_set_v1/Source/Support_set_v1_bridge3/Support_set_v1_bridge3_B1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="272">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Support_set_v1_bridge3_E1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0.003688812 3.759143 -11.35591" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="273">
+			<attribute name="Model" value="Model;FPS3/Other_props/Support_set/Support_set_v1/Source/Support_set_v1_bridge3/Support_set_v1_bridge3_E1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="274">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Support_set_v1_bridge3_S1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="3.182098 2.13974 -0.7413279" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="275">
+			<attribute name="Model" value="Model;FPS3/Other_props/Support_set/Support_set_v1/Source/Support_set_v1_bridge3/Support_set_v1_bridge3_S1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="276">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Support_set_v1_bridge3_S2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="5.918845 2.13974 -0.7413279" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="277">
+			<attribute name="Model" value="Model;FPS3/Other_props/Support_set/Support_set_v1/Source/Support_set_v1_bridge3/Support_set_v1_bridge3_S2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+</node>

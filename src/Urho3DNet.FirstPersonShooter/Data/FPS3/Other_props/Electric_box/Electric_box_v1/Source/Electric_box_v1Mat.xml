@@ -1,0 +1,8 @@
+<material>
+	<technique name="Techniques/Diff.xml" />
+	<texture unit="diffuse" name="FPS3/Other_props/Electric_box/Electric_box_v1/Source/Electric_box_v1.dds" />
+	<parameter name="MatDiffColor" value="1 1 1 1" />
+<parameter name="MatEmissiveColor" value="0 0 0" />
+	<parameter name="UOffset" value="1 0 0 0" />
+	<parameter name="VOffset" value="0 1 0 0" />
+</material>

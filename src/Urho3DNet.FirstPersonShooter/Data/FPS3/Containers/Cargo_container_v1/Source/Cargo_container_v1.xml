@@ -1,0 +1,138 @@
+<node id="130">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="Cargo_container_v1" />
+	<attribute name="Tags"><string value="Untagged" /></attribute>
+	<attribute name="Position" value="0 0 0" />
+	<attribute name="Rotation" value="1 0 0 0" />
+	<attribute name="Scale" value="1 1 1" />
+	<node id="131">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Cargo_container_v1_LD1close" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="12.10367 1.5 -5.167085" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="132">
+			<attribute name="Model" value="Model;FPS3/Containers/Cargo_container_v1/Source/Cargo_container_v1/Cargo_container_v1_LD1close.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="133">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Cargo_container_v1_LD1doorL" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="16.68432 1.503075 -1.383574" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="134">
+			<attribute name="Model" value="Model;FPS3/Containers/Cargo_container_v1/Source/Cargo_container_v1/Cargo_container_v1_LD1doorL.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="135">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Cargo_container_v1_LD1doorR" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="16.68432 1.503075 1.50024" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="136">
+			<attribute name="Model" value="Model;FPS3/Containers/Cargo_container_v1/Source/Cargo_container_v1/Cargo_container_v1_LD1doorR.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="137">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Cargo_container_v1_LD1open" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="12.77044 1.5 0.1602182" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="138">
+			<attribute name="Model" value="Model;FPS3/Containers/Cargo_container_v1/Source/Cargo_container_v1/Cargo_container_v1_LD1open.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="139">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Cargo_container_v1_LD1through" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="12.77044 1.5 6.096481" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="140">
+			<attribute name="Model" value="Model;FPS3/Containers/Cargo_container_v1/Source/Cargo_container_v1/Cargo_container_v1_LD1through.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="141">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Cargo_container_v1_LD2close" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="1.002039 1.5 -5.167085" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="142">
+			<attribute name="Model" value="Model;FPS3/Containers/Cargo_container_v1/Source/Cargo_container_v1/Cargo_container_v1_LD2close.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="143">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Cargo_container_v1_LD2doorL" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="5.207627 1.503076 -1.266117" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="144">
+			<attribute name="Model" value="Model;FPS3/Containers/Cargo_container_v1/Source/Cargo_container_v1/Cargo_container_v1_LD2doorL.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="145">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Cargo_container_v1_LD2doorR" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="5.207627 1.503075 1.61782" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="146">
+			<attribute name="Model" value="Model;FPS3/Containers/Cargo_container_v1/Source/Cargo_container_v1/Cargo_container_v1_LD2doorR.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="147">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Cargo_container_v1_LD2open" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="1.668809 1.5 0.2770653" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="148">
+			<attribute name="Model" value="Model;FPS3/Containers/Cargo_container_v1/Source/Cargo_container_v1/Cargo_container_v1_LD2open.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="149">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Cargo_container_v1_LD2through" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="1.668808 1.5 6.136169" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="150">
+			<attribute name="Model" value="Model;FPS3/Containers/Cargo_container_v1/Source/Cargo_container_v1/Cargo_container_v1_LD2through.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+</node>

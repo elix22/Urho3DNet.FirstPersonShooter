@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net471</TargetFramework>
+    <RootNamespace>Urho3DNet.FirstPersonShooter</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Platform)'=='AnyCPU'">
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="unofficial.Urho3DNet" Version="0.3.7.249" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Urho3DNet.FirstPersonShooter\Urho3DNet.FirstPersonShooter.csproj" />
+  </ItemGroup>
+
+</Project>

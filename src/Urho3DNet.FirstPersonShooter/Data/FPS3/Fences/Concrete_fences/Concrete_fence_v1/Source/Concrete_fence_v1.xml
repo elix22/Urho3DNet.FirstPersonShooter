@@ -1,0 +1,151 @@
+<node id="156">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="Concrete_fence_v1" />
+	<attribute name="Tags"><string value="Untagged" /></attribute>
+	<attribute name="Position" value="0 0 0" />
+	<attribute name="Rotation" value="1 0 0 0" />
+	<attribute name="Scale" value="1 1 1" />
+	<node id="157">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Concrete_fence_v1_c1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="3.388738 1.495451 -3.044856" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="158">
+			<attribute name="Model" value="Model;FPS3/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1/Concrete_fence_v1_c1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="159">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Concrete_fence_v1_c2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="3.091795 1.495453 2.186806" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="160">
+			<attribute name="Model" value="Model;FPS3/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1/Concrete_fence_v1_c2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="161">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Concrete_fence_v1_c3" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="5.777364 1.495451 -2.715341" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="162">
+			<attribute name="Model" value="Model;FPS3/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1/Concrete_fence_v1_c3.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="163">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Concrete_fence_v1_c4" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="5.48042 1.495452 2.51632" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="164">
+			<attribute name="Model" value="Model;FPS3/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1/Concrete_fence_v1_c4.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="165">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Concrete_fence_v1_column" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-4.55829 1.646878 4.655291" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="166">
+			<attribute name="Model" value="Model;FPS3/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1/Concrete_fence_v1_column.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="167">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Concrete_fence_v1_L1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0.7687178 1.49545 -2.749614" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="168">
+			<attribute name="Model" value="Model;FPS3/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1/Concrete_fence_v1_L1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="169">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Concrete_fence_v1_L2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0.5389538 1.495451 2.414904" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="170">
+			<attribute name="Model" value="Model;FPS3/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1/Concrete_fence_v1_L2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="171">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Concrete_fence_v1_s1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-4.549924 1.49545 -2.244469" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="172">
+			<attribute name="Model" value="Model;FPS3/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1/Concrete_fence_v1_s1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="173">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Concrete_fence_v1_s2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-4.549922 1.495451 2.120261" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="174">
+			<attribute name="Model" value="Model;FPS3/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1/Concrete_fence_v1_s2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="175">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Concrete_fence_v1_wall_set_v1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-7.065267 1.646878 0.132021" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="176">
+			<attribute name="Model" value="Model;FPS3/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1/Concrete_fence_v1_wall_set_v1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="177">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Concrete_fence_v1_wall_set_v2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-9.702661 1.646878 -4.524661" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="178">
+			<attribute name="Model" value="Model;FPS3/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1/Concrete_fence_v1_wall_set_v2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+</node>

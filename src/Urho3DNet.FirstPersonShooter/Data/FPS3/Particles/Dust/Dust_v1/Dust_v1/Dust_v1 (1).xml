@@ -1,0 +1,9 @@
+<particleeffect>
+<material name="FPS3/Particles/Dust/Dust_v1/Source/Dust_v1Mat.xml" />
+<faceCameraMode value="Rotate XYZ" />
+<timetolive min="5" max="5" />
+<emissionrate min="10" max="10" />
+<velocity min="6" max="6" />
+<numparticles value="100" />
+<particlesize min="6 6" max="6 6" />
+</particleeffect>

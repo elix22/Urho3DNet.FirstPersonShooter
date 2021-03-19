@@ -1,0 +1,7 @@
+<material>
+	<texture unit="diffuse" name="FPS3/Textures/Skyboxes/Skybox_v1/Skybox_v2.xml" />
+	<technique name="Techniques/DiffSkyboxHDRScale.xml" />
+	<cull value="none" />
+	<shadowcull value="ccw" />
+	<shader vsdefines="IGNORENODETRANSFORM" />
+</material>

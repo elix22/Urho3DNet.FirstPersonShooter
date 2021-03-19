@@ -1,0 +1,541 @@
+<node id="1">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="Ch15_nonPBR@Rifle Run" />
+	<attribute name="Tags"><string value="Untagged" /></attribute>
+	<attribute name="Position" value="0 0 0" />
+	<attribute name="Rotation" value="1 0 0 0" />
+	<attribute name="Scale" value="1 1 1" />
+	<node id="2">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Ch15" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 -0.01311945 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="AnimatedModel" id="3">
+			<attribute name="Model" value="Model;Mixamo/Ch15/Ch15_nonPBR@Rifle Run/Ch15.mdl" />
+			<attribute name="Material" value="Material;Mixamo/Ch15/Ch15_nonPBR@Rifle Run/Ch15_body.xml;Mixamo/Ch15/Ch15_nonPBR@Rifle Run/Ch15_body1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="4">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="mixamorig:Hips" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.00102836 0.7910421 -0.008972554" />
+		<attribute name="Rotation" value="0.9890112 0.08218128 0.1227186 0.006571746" />
+		<attribute name="Scale" value="1 1 1" />
+		<node id="5">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mixamorig:LeftUpLeg" />
+			<attribute name="Tags"><string value="Untagged" /></attribute>
+			<attribute name="Position" value="-0.1340027 -0.06039596 -0.007268008" />
+			<attribute name="Rotation" value="0.004296069 -0.08825727 0.3351066 0.9380276" />
+			<attribute name="Scale" value="1 1 1" />
+			<node id="6">
+				<attribute name="Is Enabled" value="true" />
+				<attribute name="Name" value="mixamorig:LeftLeg" />
+				<attribute name="Tags"><string value="Untagged" /></attribute>
+				<attribute name="Position" value="0 0.4106476 -1.410334E-10" />
+				<attribute name="Rotation" value="0.5816618 -0.8117005 0.04303619 -0.0309828" />
+				<attribute name="Scale" value="1 1 1" />
+				<node id="7">
+					<attribute name="Is Enabled" value="true" />
+					<attribute name="Name" value="mixamorig:LeftFoot" />
+					<attribute name="Tags"><string value="Untagged" /></attribute>
+					<attribute name="Position" value="1.171359E-10 0.3668282 -9.031002E-10" />
+					<attribute name="Rotation" value="0.7453791 0.6570639 0.07231794 -0.08629633" />
+					<attribute name="Scale" value="1 1 1" />
+					<node id="8">
+						<attribute name="Is Enabled" value="true" />
+						<attribute name="Name" value="mixamorig:LeftToeBase" />
+						<attribute name="Tags"><string value="Untagged" /></attribute>
+						<attribute name="Position" value="1.179705E-10 0.1780802 1.199634E-09" />
+						<attribute name="Rotation" value="0.942192 0.3347669 0.01358557 -0.004578514" />
+						<attribute name="Scale" value="1 1 1" />
+						<node id="9">
+							<attribute name="Is Enabled" value="true" />
+							<attribute name="Name" value="mixamorig:LeftToe_End" />
+							<attribute name="Tags"><string value="Untagged" /></attribute>
+							<attribute name="Position" value="-5.441381E-11 0.07206394 -1.125402E-11" />
+							<attribute name="Rotation" value="1 0 0 0" />
+							<attribute name="Scale" value="1 1 1" />
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node id="10">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mixamorig:RightUpLeg" />
+			<attribute name="Tags"><string value="Untagged" /></attribute>
+			<attribute name="Position" value="0.1340027 -0.06039596 -0.007971215" />
+			<attribute name="Rotation" value="0.09049079 -0.05453085 0.2473292 0.9631542" />
+			<attribute name="Scale" value="1 1 1" />
+			<node id="11">
+				<attribute name="Is Enabled" value="true" />
+				<attribute name="Name" value="mixamorig:RightLeg" />
+				<attribute name="Tags"><string value="Untagged" /></attribute>
+				<attribute name="Position" value="0 0.4106505 -4.326274E-11" />
+				<attribute name="Rotation" value="0.8195034 -0.5691584 -0.01142062 0.0658971" />
+				<attribute name="Scale" value="1 1 1" />
+				<node id="12">
+					<attribute name="Is Enabled" value="true" />
+					<attribute name="Name" value="mixamorig:RightFoot" />
+					<attribute name="Tags"><string value="Untagged" /></attribute>
+					<attribute name="Position" value="-2.16837E-10 0.3666973 -7.25601E-10" />
+					<attribute name="Rotation" value="0.616797 0.7622834 -0.1956679 0.01412832" />
+					<attribute name="Scale" value="1 1 1" />
+					<node id="13">
+						<attribute name="Is Enabled" value="true" />
+						<attribute name="Name" value="mixamorig:RightToeBase" />
+						<attribute name="Tags"><string value="Untagged" /></attribute>
+						<attribute name="Position" value="-1.035291E-10 0.1784883 -7.240182E-09" />
+						<attribute name="Rotation" value="0.9273248 0.373894 -0.01616901 0.003271798" />
+						<attribute name="Scale" value="1 1 1" />
+						<node id="14">
+							<attribute name="Is Enabled" value="true" />
+							<attribute name="Name" value="mixamorig:RightToe_End" />
+							<attribute name="Tags"><string value="Untagged" /></attribute>
+							<attribute name="Position" value="-2.089541E-11 0.07267511 6.675902E-12" />
+							<attribute name="Rotation" value="1 0 0 0" />
+							<attribute name="Scale" value="1 1 1" />
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node id="15">
+			<attribute name="Is Enabled" value="true" />
+			<attribute name="Name" value="mixamorig:Spine" />
+			<attribute name="Tags"><string value="Untagged" /></attribute>
+			<attribute name="Position" value="0 0.1087127 -0.0095144" />
+			<attribute name="Rotation" value="0.9988931 0.03409657 0.02981694 -0.01268829" />
+			<attribute name="Scale" value="1 1 1" />
+			<node id="16">
+				<attribute name="Is Enabled" value="true" />
+				<attribute name="Name" value="mixamorig:Spine1" />
+				<attribute name="Tags"><string value="Untagged" /></attribute>
+				<attribute name="Position" value="0 0.1273163 7.130271E-10" />
+				<attribute name="Rotation" value="0.9995302 0.0293919 0.008522702 0.001681566" />
+				<attribute name="Scale" value="1 1 1" />
+				<node id="17">
+					<attribute name="Is Enabled" value="true" />
+					<attribute name="Name" value="mixamorig:Spine2" />
+					<attribute name="Tags"><string value="Untagged" /></attribute>
+					<attribute name="Position" value="0 0.1455044 -2.818632E-10" />
+					<attribute name="Rotation" value="0.9995309 0.02932063 0.008665231 0.001775613" />
+					<attribute name="Scale" value="1 1 1" />
+					<node id="18">
+						<attribute name="Is Enabled" value="true" />
+						<attribute name="Name" value="mixamorig:LeftShoulder" />
+						<attribute name="Tags"><string value="Untagged" /></attribute>
+						<attribute name="Position" value="-0.07670616 0.1426041 -0.003436967" />
+						<attribute name="Rotation" value="0.5268385 0.5541747 -0.4534029 0.457993" />
+						<attribute name="Scale" value="1 1 1" />
+						<node id="19">
+							<attribute name="Is Enabled" value="true" />
+							<attribute name="Name" value="mixamorig:LeftArm" />
+							<attribute name="Tags"><string value="Untagged" /></attribute>
+							<attribute name="Position" value="-0.002684089 0.1258347 0.01716999" />
+							<attribute name="Rotation" value="0.6771965 0.2368343 0.4268831 -0.5505319" />
+							<attribute name="Scale" value="1 1 1" />
+							<node id="20">
+								<attribute name="Is Enabled" value="true" />
+								<attribute name="Name" value="mixamorig:LeftForeArm" />
+								<attribute name="Tags"><string value="Untagged" /></attribute>
+								<attribute name="Position" value="9.129065E-05 0.2493829 -0.009080708" />
+								<attribute name="Rotation" value="0.9655514 0.008586871 -0.004343226 -0.2600342" />
+								<attribute name="Scale" value="1 1 1" />
+								<node id="21">
+									<attribute name="Is Enabled" value="true" />
+									<attribute name="Name" value="mixamorig:LeftHand" />
+									<attribute name="Tags"><string value="Untagged" /></attribute>
+									<attribute name="Position" value="-4.334011E-10 0.2481004 -1.042061E-09" />
+									<attribute name="Rotation" value="0.4413403 0.06638158 0.8769948 0.1780234" />
+									<attribute name="Scale" value="1 1 1" />
+									<node id="22">
+										<attribute name="Is Enabled" value="true" />
+										<attribute name="Name" value="mixamorig:LeftHandIndex1" />
+										<attribute name="Tags"><string value="Untagged" /></attribute>
+										<attribute name="Position" value="0.03535614 0.1029047 0.0008335298" />
+										<attribute name="Rotation" value="0.9503332 0.3111475 0.0001999567 -0.007342272" />
+										<attribute name="Scale" value="1 1 1" />
+										<node id="23">
+											<attribute name="Is Enabled" value="true" />
+											<attribute name="Name" value="mixamorig:LeftHandIndex2" />
+											<attribute name="Tags"><string value="Untagged" /></attribute>
+											<attribute name="Position" value="-0.0003593773 0.03339123 -1.688218E-10" />
+											<attribute name="Rotation" value="0.864273 0.4976501 0.001153738 0.07331645" />
+											<attribute name="Scale" value="1 1 1" />
+											<node id="24">
+												<attribute name="Is Enabled" value="true" />
+												<attribute name="Name" value="mixamorig:LeftHandIndex3" />
+												<attribute name="Tags"><string value="Untagged" /></attribute>
+												<attribute name="Position" value="0.0001705402 0.0331277 -7.518E-10" />
+												<attribute name="Rotation" value="0.9776428 0.2083049 -0.001200704 0.02867329" />
+												<attribute name="Scale" value="1 1 1" />
+												<node id="25">
+													<attribute name="Is Enabled" value="true" />
+													<attribute name="Name" value="mixamorig:LeftHandIndex4" />
+													<attribute name="Tags"><string value="Untagged" /></attribute>
+													<attribute name="Position" value="0.0001888366 0.02693398 9.708145E-11" />
+													<attribute name="Rotation" value="1 0 0 0" />
+													<attribute name="Scale" value="1 1 1" />
+												</node>
+											</node>
+										</node>
+									</node>
+									<node id="26">
+										<attribute name="Is Enabled" value="true" />
+										<attribute name="Name" value="mixamorig:LeftHandMiddle1" />
+										<attribute name="Tags"><string value="Untagged" /></attribute>
+										<attribute name="Position" value="0.01024001 0.1106564 -0.0007201232" />
+										<attribute name="Rotation" value="0.8992784 0.4371636 -0.0005031112 0.01364254" />
+										<attribute name="Scale" value="1 1 1" />
+										<node id="27">
+											<attribute name="Is Enabled" value="true" />
+											<attribute name="Name" value="mixamorig:LeftHandMiddle2" />
+											<attribute name="Tags"><string value="Untagged" /></attribute>
+											<attribute name="Position" value="-0.0002277814 0.03486525 7.496237E-10" />
+											<attribute name="Rotation" value="0.8422207 0.5338412 0.0007375301 0.07534869" />
+											<attribute name="Scale" value="1 1 1" />
+											<node id="28">
+												<attribute name="Is Enabled" value="true" />
+												<attribute name="Name" value="mixamorig:LeftHandMiddle3" />
+												<attribute name="Tags"><string value="Untagged" /></attribute>
+												<attribute name="Position" value="0.0001143374 0.03333781 4.691901E-10" />
+												<attribute name="Rotation" value="0.9877909 0.1543792 -0.0005597951 0.02087824" />
+												<attribute name="Scale" value="1 1 1" />
+												<node id="29">
+													<attribute name="Is Enabled" value="true" />
+													<attribute name="Name" value="mixamorig:LeftHandMiddle4" />
+													<attribute name="Tags"><string value="Untagged" /></attribute>
+													<attribute name="Position" value="0.0001134442 0.02783091 9.288459E-10" />
+													<attribute name="Rotation" value="1 0 0 0" />
+													<attribute name="Scale" value="1 1 1" />
+												</node>
+											</node>
+										</node>
+									</node>
+									<node id="30">
+										<attribute name="Is Enabled" value="true" />
+										<attribute name="Name" value="mixamorig:LeftHandPinky1" />
+										<attribute name="Tags"><string value="Untagged" /></attribute>
+										<attribute name="Position" value="-0.03261792 0.09494009 -0.001102499" />
+										<attribute name="Rotation" value="0.8050804 0.5909884 0.04702005 -0.01916655" />
+										<attribute name="Scale" value="1 1 1" />
+										<node id="31">
+											<attribute name="Is Enabled" value="true" />
+											<attribute name="Name" value="mixamorig:LeftHandPinky2" />
+											<attribute name="Tags"><string value="Untagged" /></attribute>
+											<attribute name="Position" value="-5.951696E-05 0.02752865 2.586205E-11" />
+											<attribute name="Rotation" value="0.8465592 0.5261668 -0.001566336 0.08052133" />
+											<attribute name="Scale" value="1 1 1" />
+											<node id="32">
+												<attribute name="Is Enabled" value="true" />
+												<attribute name="Name" value="mixamorig:LeftHandPinky3" />
+												<attribute name="Tags"><string value="Untagged" /></attribute>
+												<attribute name="Position" value="0.0002310465 0.02502313 5.050342E-10" />
+												<attribute name="Rotation" value="0.9925504 0.1215596 5.103319E-05 0.008191428" />
+												<attribute name="Scale" value="1 1 1" />
+												<node id="33">
+													<attribute name="Is Enabled" value="true" />
+													<attribute name="Name" value="mixamorig:LeftHandPinky4" />
+													<attribute name="Tags"><string value="Untagged" /></attribute>
+													<attribute name="Position" value="-0.0001715297 0.01793109 2.286217E-10" />
+													<attribute name="Rotation" value="1 0 0 0" />
+													<attribute name="Scale" value="1 1 1" />
+												</node>
+											</node>
+										</node>
+									</node>
+									<node id="34">
+										<attribute name="Is Enabled" value="true" />
+										<attribute name="Name" value="mixamorig:LeftHandRing1" />
+										<attribute name="Tags"><string value="Untagged" /></attribute>
+										<attribute name="Position" value="-0.01297824 0.1132935 -0.001383728" />
+										<attribute name="Rotation" value="0.8636043 0.5036396 0.006722134 0.02212727" />
+										<attribute name="Scale" value="1 1 1" />
+										<node id="35">
+											<attribute name="Is Enabled" value="true" />
+											<attribute name="Name" value="mixamorig:LeftHandRing2" />
+											<attribute name="Tags"><string value="Untagged" /></attribute>
+											<attribute name="Position" value="7.51496E-05 0.02748911 1.060355E-09" />
+											<attribute name="Rotation" value="0.8080257 0.5830527 -0.001946116 0.08450109" />
+											<attribute name="Scale" value="1 1 1" />
+											<node id="36">
+												<attribute name="Is Enabled" value="true" />
+												<attribute name="Name" value="mixamorig:LeftHandRing3" />
+												<attribute name="Tags"><string value="Untagged" /></attribute>
+												<attribute name="Position" value="0.0001081195 0.0267039 -1.53839E-10" />
+												<attribute name="Rotation" value="0.9748071 0.2215123 0.0006008676 0.0261358" />
+												<attribute name="Scale" value="1 1 1" />
+												<node id="37">
+													<attribute name="Is Enabled" value="true" />
+													<attribute name="Name" value="mixamorig:LeftHandRing4" />
+													<attribute name="Tags"><string value="Untagged" /></attribute>
+													<attribute name="Position" value="-0.0001832687 0.02320568 7.130126E-11" />
+													<attribute name="Rotation" value="1 0 0 0" />
+													<attribute name="Scale" value="1 1 1" />
+												</node>
+											</node>
+										</node>
+									</node>
+									<node id="38">
+										<attribute name="Is Enabled" value="true" />
+										<attribute name="Name" value="mixamorig:LeftHandThumb1" />
+										<attribute name="Tags"><string value="Untagged" /></attribute>
+										<attribute name="Position" value="0.02984703 0.03328346 0.01067988" />
+										<attribute name="Rotation" value="0.968195 0.1953225 -0.1166989 -0.1040629" />
+										<attribute name="Scale" value="1 1 1" />
+										<node id="39">
+											<attribute name="Is Enabled" value="true" />
+											<attribute name="Name" value="mixamorig:LeftHandThumb2" />
+											<attribute name="Tags"><string value="Untagged" /></attribute>
+											<attribute name="Position" value="0.007215567 0.0360564 9.725716E-10" />
+											<attribute name="Rotation" value="0.9858746 0.01116167 -0.1615902 -0.04260678" />
+											<attribute name="Scale" value="1 1 1" />
+											<node id="40">
+												<attribute name="Is Enabled" value="true" />
+												<attribute name="Name" value="mixamorig:LeftHandThumb3" />
+												<attribute name="Tags"><string value="Untagged" /></attribute>
+												<attribute name="Position" value="-0.0003167852 0.03668723 -5.730527E-10" />
+												<attribute name="Rotation" value="0.9789871 -0.02837962 0.001042897 -0.2019351" />
+												<attribute name="Scale" value="1 1 1" />
+												<node id="41">
+													<attribute name="Is Enabled" value="true" />
+													<attribute name="Name" value="mixamorig:LeftHandThumb4" />
+													<attribute name="Tags"><string value="Untagged" /></attribute>
+													<attribute name="Position" value="-0.006898788 0.02847444 1.400712E-09" />
+													<attribute name="Rotation" value="1 0 0 0" />
+													<attribute name="Scale" value="1 1 1" />
+												</node>
+											</node>
+										</node>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node id="42">
+						<attribute name="Is Enabled" value="true" />
+						<attribute name="Name" value="mixamorig:Neck" />
+						<attribute name="Tags"><string value="Untagged" /></attribute>
+						<attribute name="Position" value="0 0.1636923 -4.000827E-09" />
+						<attribute name="Rotation" value="0.9961599 0.08074445 -0.03097358 -0.01365618" />
+						<attribute name="Scale" value="1 1 1" />
+						<node id="43">
+							<attribute name="Is Enabled" value="true" />
+							<attribute name="Name" value="mixamorig:Head" />
+							<attribute name="Tags"><string value="Untagged" /></attribute>
+							<attribute name="Position" value="0 0.06116714 0.02423307" />
+							<attribute name="Rotation" value="0.9840315 -0.02177115 -0.1430708 -0.103628" />
+							<attribute name="Scale" value="1 1 1" />
+							<node id="44">
+								<attribute name="Is Enabled" value="true" />
+								<attribute name="Name" value="mixamorig:HeadTop_End" />
+								<attribute name="Tags"><string value="Untagged" /></attribute>
+								<attribute name="Position" value="0 0.2371275 0.09394469" />
+								<attribute name="Rotation" value="1 6.938894E-18 0 0" />
+								<attribute name="Scale" value="1 1 1" />
+							</node>
+						</node>
+					</node>
+					<node id="45">
+						<attribute name="Is Enabled" value="true" />
+						<attribute name="Name" value="mixamorig:RightShoulder" />
+						<attribute name="Tags"><string value="Untagged" /></attribute>
+						<attribute name="Position" value="0.07670616 0.1423277 -0.0002784547" />
+						<attribute name="Rotation" value="0.4397154 0.5889003 0.4123865 -0.5383161" />
+						<attribute name="Scale" value="1 1 1" />
+						<node id="46">
+							<attribute name="Is Enabled" value="true" />
+							<attribute name="Name" value="mixamorig:RightArm" />
+							<attribute name="Tags"><string value="Untagged" /></attribute>
+							<attribute name="Position" value="0.00994322 0.1256711 0.01656346" />
+							<attribute name="Rotation" value="0.7627252 0.4344852 -0.08966244 0.4705672" />
+							<attribute name="Scale" value="1 1 1" />
+							<node id="47">
+								<attribute name="Is Enabled" value="true" />
+								<attribute name="Name" value="mixamorig:RightForeArm" />
+								<attribute name="Tags"><string value="Untagged" /></attribute>
+								<attribute name="Position" value="-0.01257083 0.249098 -0.008060717" />
+								<attribute name="Rotation" value="0.5765829 0.05509546 0.01407999 0.8150573" />
+								<attribute name="Scale" value="1 1 1" />
+								<node id="48">
+									<attribute name="Is Enabled" value="true" />
+									<attribute name="Name" value="mixamorig:RightHand" />
+									<attribute name="Tags"><string value="Untagged" /></attribute>
+									<attribute name="Position" value="-1.749795E-10 0.2481196 3.393683E-10" />
+									<attribute name="Rotation" value="0.9014712 -0.1691226 -0.1251071 -0.3782796" />
+									<attribute name="Scale" value="1 1 1" />
+									<node id="49">
+										<attribute name="Is Enabled" value="true" />
+										<attribute name="Name" value="mixamorig:RightHandIndex1" />
+										<attribute name="Tags"><string value="Untagged" /></attribute>
+										<attribute name="Position" value="-0.03502077 0.1067519 0.0005310999" />
+										<attribute name="Rotation" value="0.993485 0.1010761 -0.003175128 0.05254757" />
+										<attribute name="Scale" value="1 1 1" />
+										<node id="50">
+											<attribute name="Is Enabled" value="true" />
+											<attribute name="Name" value="mixamorig:RightHandIndex2" />
+											<attribute name="Tags"><string value="Untagged" /></attribute>
+											<attribute name="Position" value="0.0002412998 0.03366283 9.210333E-10" />
+											<attribute name="Rotation" value="0.9587042 0.2824167 -0.0004536659 -0.03357025" />
+											<attribute name="Scale" value="1 1 1" />
+											<node id="51">
+												<attribute name="Is Enabled" value="true" />
+												<attribute name="Name" value="mixamorig:RightHandIndex3" />
+												<attribute name="Tags"><string value="Untagged" /></attribute>
+												<attribute name="Position" value="-8.420341E-05 0.03151953 -2.36839E-09" />
+												<attribute name="Rotation" value="0.9662178 0.2562161 0.001009173 -0.02784559" />
+												<attribute name="Scale" value="1 1 1" />
+												<node id="52">
+													<attribute name="Is Enabled" value="true" />
+													<attribute name="Name" value="mixamorig:RightHandIndex4" />
+													<attribute name="Tags"><string value="Untagged" /></attribute>
+													<attribute name="Position" value="-0.0001570943 0.02556778 -9.548216E-11" />
+													<attribute name="Rotation" value="1 0 0 0" />
+													<attribute name="Scale" value="1 1 1" />
+												</node>
+											</node>
+										</node>
+									</node>
+									<node id="53">
+										<attribute name="Is Enabled" value="true" />
+										<attribute name="Name" value="mixamorig:RightHandMiddle1" />
+										<attribute name="Tags"><string value="Untagged" /></attribute>
+										<attribute name="Position" value="-0.00859887 0.1195504 -0.001818983" />
+										<attribute name="Rotation" value="0.9042457 0.4243339 0.01424638 -0.0455798" />
+										<attribute name="Scale" value="1 1 1" />
+										<node id="54">
+											<attribute name="Is Enabled" value="true" />
+											<attribute name="Name" value="mixamorig:RightHandMiddle2" />
+											<attribute name="Tags"><string value="Untagged" /></attribute>
+											<attribute name="Position" value="5.203323E-06 0.03070264 7.228306E-10" />
+											<attribute name="Rotation" value="0.5691385 0.8177579 0.002983571 -0.08569968" />
+											<attribute name="Scale" value="1 1 1" />
+											<node id="55">
+												<attribute name="Is Enabled" value="true" />
+												<attribute name="Name" value="mixamorig:RightHandMiddle3" />
+												<attribute name="Tags"><string value="Untagged" /></attribute>
+												<attribute name="Position" value="-0.0002518079 0.03199291 -2.783563E-10" />
+												<attribute name="Rotation" value="0.9866194 0.1628832 -0.0006346699 -0.007129794" />
+												<attribute name="Scale" value="1 1 1" />
+												<node id="56">
+													<attribute name="Is Enabled" value="true" />
+													<attribute name="Name" value="mixamorig:RightHandMiddle4" />
+													<attribute name="Tags"><string value="Untagged" /></attribute>
+													<attribute name="Position" value="0.0002466039 0.02135968 4.745345E-11" />
+													<attribute name="Rotation" value="1 0 0 0" />
+													<attribute name="Scale" value="1 1 1" />
+												</node>
+											</node>
+										</node>
+									</node>
+									<node id="57">
+										<attribute name="Is Enabled" value="true" />
+										<attribute name="Name" value="mixamorig:RightHandPinky1" />
+										<attribute name="Tags"><string value="Untagged" /></attribute>
+										<attribute name="Position" value="0.03038237 0.09039024 -0.001747454" />
+										<attribute name="Rotation" value="0.8478349 0.5292765 -0.02982719 0.01235388" />
+										<attribute name="Scale" value="1 1 1" />
+										<node id="58">
+											<attribute name="Is Enabled" value="true" />
+											<attribute name="Name" value="mixamorig:RightHandPinky2" />
+											<attribute name="Tags"><string value="Untagged" /></attribute>
+											<attribute name="Position" value="3.123525E-05 0.02984967 8.015695E-10" />
+											<attribute name="Rotation" value="0.7508528 0.6562204 0.001099095 -0.07479076" />
+											<attribute name="Scale" value="1 1 1" />
+											<node id="59">
+												<attribute name="Is Enabled" value="true" />
+												<attribute name="Name" value="mixamorig:RightHandPinky3" />
+												<attribute name="Tags"><string value="Untagged" /></attribute>
+												<attribute name="Position" value="-0.0001206613 0.02573152 -2.74174E-10" />
+												<attribute name="Rotation" value="0.8668421 0.4959775 8.788912E-06 -0.05090316" />
+												<attribute name="Scale" value="1 1 1" />
+												<node id="60">
+													<attribute name="Is Enabled" value="true" />
+													<attribute name="Name" value="mixamorig:RightHandPinky4" />
+													<attribute name="Tags"><string value="Untagged" /></attribute>
+													<attribute name="Position" value="8.942615E-05 0.019043 -1.288762E-10" />
+													<attribute name="Rotation" value="1 0 0 0" />
+													<attribute name="Scale" value="1 1 1" />
+												</node>
+											</node>
+										</node>
+									</node>
+									<node id="61">
+										<attribute name="Is Enabled" value="true" />
+										<attribute name="Name" value="mixamorig:RightHandRing1" />
+										<attribute name="Tags"><string value="Untagged" /></attribute>
+										<attribute name="Position" value="0.01323727 0.1240205 0.0008643078" />
+										<attribute name="Rotation" value="0.8814124 0.4716508 -0.02093067 0.01482103" />
+										<attribute name="Scale" value="1 1 1" />
+										<node id="62">
+											<attribute name="Is Enabled" value="true" />
+											<attribute name="Name" value="mixamorig:RightHandRing2" />
+											<attribute name="Tags"><string value="Untagged" /></attribute>
+											<attribute name="Position" value="-3.10114E-05 0.025134 1.996517E-10" />
+											<attribute name="Rotation" value="0.6449268 0.7599431 0.001715651 -0.08094982" />
+											<attribute name="Scale" value="1 1 1" />
+											<node id="63">
+												<attribute name="Is Enabled" value="true" />
+												<attribute name="Name" value="mixamorig:RightHandRing3" />
+												<attribute name="Tags"><string value="Untagged" /></attribute>
+												<attribute name="Position" value="-7.862796E-05 0.02347059 6.970683E-10" />
+												<attribute name="Rotation" value="0.9047639 0.4240037 -0.0009052132 -0.04027984" />
+												<attribute name="Scale" value="1 1 1" />
+												<node id="64">
+													<attribute name="Is Enabled" value="true" />
+													<attribute name="Name" value="mixamorig:RightHandRing4" />
+													<attribute name="Tags"><string value="Untagged" /></attribute>
+													<attribute name="Position" value="0.0001096391 0.01613894 -1.49592E-11" />
+													<attribute name="Rotation" value="1 0 0 0" />
+													<attribute name="Scale" value="1 1 1" />
+												</node>
+											</node>
+										</node>
+									</node>
+									<node id="65">
+										<attribute name="Is Enabled" value="true" />
+										<attribute name="Name" value="mixamorig:RightHandThumb1" />
+										<attribute name="Tags"><string value="Untagged" /></attribute>
+										<attribute name="Position" value="-0.03041437 0.03360931 0.01238048" />
+										<attribute name="Rotation" value="0.9337727 0.3102301 0.1300589 0.122109" />
+										<attribute name="Scale" value="1 1 1" />
+										<node id="66">
+											<attribute name="Is Enabled" value="true" />
+											<attribute name="Name" value="mixamorig:RightHandThumb2" />
+											<attribute name="Tags"><string value="Untagged" /></attribute>
+											<attribute name="Position" value="-0.007701923 0.03679318 -9.618532E-11" />
+											<attribute name="Rotation" value="0.9756904 -0.07702697 0.1784697 -0.1012106" />
+											<attribute name="Scale" value="1 1 1" />
+											<node id="67">
+												<attribute name="Is Enabled" value="true" />
+												<attribute name="Name" value="mixamorig:RightHandThumb3" />
+												<attribute name="Tags"><string value="Untagged" /></attribute>
+												<attribute name="Position" value="0.002163303 0.03574977 5.364711E-11" />
+												<attribute name="Rotation" value="0.9009488 -0.1861398 0.02677509 -0.3910579" />
+												<attribute name="Scale" value="1 1 1" />
+												<node id="68">
+													<attribute name="Is Enabled" value="true" />
+													<attribute name="Name" value="mixamorig:RightHandThumb4" />
+													<attribute name="Tags"><string value="Untagged" /></attribute>
+													<attribute name="Position" value="0.005538614 0.02736288 -4.369403E-10" />
+													<attribute name="Rotation" value="1 0 0 0" />
+													<attribute name="Scale" value="1 1 1" />
+												</node>
+											</node>
+										</node>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</node>

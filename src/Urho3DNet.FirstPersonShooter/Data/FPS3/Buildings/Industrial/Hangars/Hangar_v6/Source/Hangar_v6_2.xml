@@ -1,0 +1,13 @@
+<node id="64">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="Hangar_v6_2" />
+	<attribute name="Tags"><string value="Untagged" /></attribute>
+	<attribute name="Position" value="0 0 0" />
+	<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+	<attribute name="Scale" value="1 1 1" />
+	<component type="StaticModel" id="65">
+		<attribute name="Model" value="Model;FPS3/Buildings/Industrial/Hangars/Hangar_v6/Source/Hangar_v6_2/Hangar_v6_2.mdl" />
+		<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+		<attribute name="Cast Shadows" value="true" />
+	</component>
+</node>

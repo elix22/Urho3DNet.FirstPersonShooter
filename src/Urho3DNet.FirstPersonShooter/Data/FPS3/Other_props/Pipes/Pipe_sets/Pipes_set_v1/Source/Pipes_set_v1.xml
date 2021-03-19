@@ -1,0 +1,294 @@
+<node id="337">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="Pipes_set_v1" />
+	<attribute name="Tags"><string value="Untagged" /></attribute>
+	<attribute name="Position" value="0 0 0" />
+	<attribute name="Rotation" value="1 0 0 0" />
+	<attribute name="Scale" value="1 1 1" />
+	<node id="338">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_bend_d" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.03817177 7.671337 0.5481691" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="339">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_bend_d.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="340">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_bend_d_H1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-4.988726 4.624606 10.42657" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="341">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_bend_d_H1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="342">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_bend_d_H2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-4.629529 4.624491 -4.724877" />
+		<attribute name="Rotation" value="1 2.185569E-08 -8.742278E-08 1.910685E-15" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="343">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_bend_d_H2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="344">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_bend_s" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.03817177 7.671337 -1.088562" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="345">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_bend_s.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="346">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_H_set_v1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-4.875547 2.584876 2.748254" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="347">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_H_set_v1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="348">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_H_set_v2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-7.537864 2.584877 -1.83566" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="349">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_H_set_v2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="350">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_H_set_v3" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="3.025974 7.502814 -3.145284" />
+		<attribute name="Rotation" value="1 2.185569E-08 1.910685E-15 8.742278E-08" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="351">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_H_set_v3.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="352">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_H_set_v4" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="10.59328 7.502814 -3.145284" />
+		<attribute name="Rotation" value="1 2.185569E-08 1.910685E-15 8.742278E-08" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="353">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_H_set_v4.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="354">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_support" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-2.285955 2.584877 0.7827587" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="355">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_support.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="356">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_tile_d1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.1057959 5.911356 0.6130352" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="357">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_tile_d1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="358">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_tile_d2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.1057959 2.29987 0.6130352" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="359">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_tile_d2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="360">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_tile_d003" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-5.981183 8.83268 0.6130352" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="361">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_tile_d003.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="362">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_tile_s1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.1057959 5.911356 -1.074053" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="363">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_tile_s1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="364">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_tile_s2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.1057959 2.29987 -1.074053" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="365">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_tile_s2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="366">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_U_set_v1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-2.831117 5.02174 -8.98812" />
+		<attribute name="Rotation" value="1 5.962439E-09 4.371139E-08 -4.371139E-08" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="367">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_U_set_v1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="368">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_U_set_v2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-2.831112 2.729783 -11.79272" />
+		<attribute name="Rotation" value="1 5.962439E-09 4.371139E-08 -4.371139E-08" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="369">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_U_set_v2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="370">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_U_set_v3" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-1.685139 5.02174 -14.65494" />
+		<attribute name="Rotation" value="1 5.962439E-09 4.371139E-08 -4.371139E-08" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="371">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_U_set_v3.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="372">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_U_set_v4" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-1.685139 2.729783 -17.71613" />
+		<attribute name="Rotation" value="1 5.962439E-09 4.371139E-08 -4.371139E-08" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="373">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_U_set_v4.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="374">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_V_set_v1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.06770483 3.997253 -3.145284" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="375">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_V_set_v1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="376">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_V_set_v2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.06770468 2.851275 -5.280278" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="377">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_V_set_v2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="378">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_vent_1" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="4.019094 4.007564 -0.1019707" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="379">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_vent_1.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="380">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pipes_set_v1_vent_2" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="3.022165 2.981878 -0.1865234" />
+		<attribute name="Rotation" value="1 2.185569E-08 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="381">
+			<attribute name="Model" value="Model;FPS3/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Source/Pipes_set_v1/Pipes_set_v1_vent_2.mdl" />
+			<attribute name="Material" value="Material;Resources/unity_builtin_extra/Default-Material.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+</node>
