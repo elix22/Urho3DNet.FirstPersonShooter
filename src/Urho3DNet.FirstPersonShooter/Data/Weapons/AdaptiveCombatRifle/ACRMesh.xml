@@ -1,0 +1,190 @@
+<node id="11">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="ACRMesh" />
+	<attribute name="Tags"><string value="Untagged" /></attribute>
+	<attribute name="Position" value="0 0 0" />
+	<attribute name="Rotation" value="1 0 0 0" />
+	<attribute name="Scale" value="1 1 1" />
+	<node id="12">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="ACRRifle001" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0.07041985 -0.01381433 0" />
+		<attribute name="Rotation" value="0.7013148 -0.7013148 0.09031913 -0.09031913" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="13">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/ACRRifle001.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Rifle.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="14">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Bullet" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.04749446 -0.08371604 -0.2347516" />
+		<attribute name="Rotation" value="0.5000001 -0.5 0.5 -0.5" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="15">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Bullet.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Pmag.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="16">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Bullet001" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.03599751 -0.1049319 -0.2481574" />
+		<attribute name="Rotation" value="0.7071068 -5.760116E-08 0.7071068 5.760116E-08" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="17">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Bullet001.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Pmag.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="18">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Bullet002" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.02313057 -0.0999317 -0.2481574" />
+		<attribute name="Rotation" value="0.1396023 0.1811867 0.9716707 0.05948686" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="19">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Bullet002.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Pmag.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="20">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Foregrip" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.09794188 0.05327309 -0.0001341934" />
+		<attribute name="Rotation" value="0.7013148 -0.7013148 0.09031913 -0.09031913" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="21">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Foregrip.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Foregrip.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="22">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Foregrip001" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.05935634 -0.09597986 -0.0001341934" />
+		<attribute name="Rotation" value="0.7385411 -0.004825939 0.6741769 0.004405336" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="23">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Foregrip001.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Foregrip.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="24">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="GroundPlane" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.02506387 -0.1097739 2.827454E-05" />
+		<attribute name="Rotation" value="0.7071068 -0.7071068 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="25">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/GroundPlane.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/No Name.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="26">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pmag" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0.01292139 -0.02120618 -0.0001041641" />
+		<attribute name="Rotation" value="0.7013148 -0.7013148 0.09031913 -0.09031913" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="27">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Pmag.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Pmag.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="28">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pmag001" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0.03209345 -0.09520356 -0.2039959" />
+		<attribute name="Rotation" value="0.7933534 1.733929E-08 -0.6087614 1.33049E-08" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="29">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Pmag001.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Pmag.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="30">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Pmag002" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0.03209345 -0.08187427 -0.2529103" />
+		<attribute name="Rotation" value="0.9946508 -0.101241 -0.002075453 0.02039045" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="31">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Pmag002.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Pmag.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="32">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Scope" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0.08133383 0.1003134 0.0006479111" />
+		<attribute name="Rotation" value="0.7013148 -0.7013148 0.09031913 -0.09031913" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="33">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Scope.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Scope.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="34">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Scope001" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.05592679 -0.09715088 -0.1078219" />
+		<attribute name="Rotation" value="0.04286323 -0.04286325 0.7058065 0.7058065" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="35">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Scope001.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Scope.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="36">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Suppresor" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="-0.2842757 0.1477752 0.000422081" />
+		<attribute name="Rotation" value="0.7013148 -0.7013148 0.09031913 -0.09031913" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="37">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Suppresor.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Silencer.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="38">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Suppresor001" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0.2122748 -0.07822891 -0.150822" />
+		<attribute name="Rotation" value="0.4545195 0.5416752 -0.5416752 -0.4545195" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="39">
+			<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Suppresor001.mdl" />
+			<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/ACRMesh/Silencer.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+</node>

@@ -1,0 +1,13 @@
+<node id="1">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="Pmag" />
+	<attribute name="Tags"><string value="Untagged" /></attribute>
+	<attribute name="Position" value="0.05343559 -0.1585139 -0.3396532" />
+	<attribute name="Rotation" value="0.7933534 1.733929E-08 -0.6087614 1.33049E-08" />
+	<attribute name="Scale" value="1 1 1" />
+	<component type="StaticModel" id="2">
+		<attribute name="Model" value="Model;Weapons/AdaptiveCombatRifle/ACRMesh/Pmag001.mdl" />
+		<attribute name="Material" value="Material;Weapons/AdaptiveCombatRifle/textures/PmagLegacy.xml" />
+		<attribute name="Cast Shadows" value="true" />
+	</component>
+</node>

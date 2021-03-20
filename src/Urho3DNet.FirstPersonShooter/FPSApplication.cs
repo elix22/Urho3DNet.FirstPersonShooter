@@ -1,4 +1,6 @@
-﻿using System.Diagnostics;
+﻿using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
 
 namespace Urho3DNet.FirstPersonShooter
 {
@@ -15,6 +17,7 @@ namespace Urho3DNet.FirstPersonShooter
         private Node _player;
         private readonly float _mouseSensetivity = 0.22f;
         private ClassicFPSCharacter _character;
+        private List<Node> _spawnPoints;
 
         public FPSApplication(Context context) : base(context)
         {
@@ -177,12 +180,27 @@ namespace Urho3DNet.FirstPersonShooter
             Scene.LoadXML("Scenes/Map_v2.xml");
 
             _player = Scene.CreateChild();
-            _player.Position = new Vector3(0, 1);
 
+            _spawnPoints = Scene.GetChildrenWithTag("SpawnPoint", true).ToList();
+            _player.Position = _spawnPoints[0].WorldPosition;
             _character = _player.CreateComponent<ClassicFPSCharacter>();
-
             var camera = _character.Camera;
-            camera.Fov = 90;
+            camera.Fov = 80;
+            var gun = camera.Node.CreateChild("Gun");
+            gun.LoadXML("Weapons/AdaptiveCombatRifle/ACRRifle.xml");
+            gun.Position = new Vector3(0.104308f, -0.19f, 0.227534f);
+            gun.Rotation = new Quaternion(0.5f, -0.5f, 0.5f, 0.5f);
+
+            foreach (var spawnPoint in _spawnPoints.Skip(1))
+            {
+                var enemy = Scene.CreateChild();
+                enemy.LoadXML("Objects/Enemy.xml");
+                enemy.WorldPosition = spawnPoint.WorldPosition;
+                var model = enemy.GetComponent<AnimatedModel>(true);
+                var states = model.AnimationStates;
+                var a = model.Node.GetOrCreateComponent<AnimationController>();
+                a.Play(states[0].Animation.Name, 0, true);
+            }
 
             Viewport = new Viewport(Context, Scene, camera);
             Context.Renderer.SetViewport(0, Viewport);

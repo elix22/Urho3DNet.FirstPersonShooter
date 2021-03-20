@@ -1,0 +1,307 @@
+<node id="48">
+	<attribute name="Is Enabled" value="true" />
+	<attribute name="Name" value="AK57Mesh" />
+	<attribute name="Tags"><string value="Untagged" /></attribute>
+	<attribute name="Position" value="0 0 0" />
+	<attribute name="Rotation" value="1 0 0 0" />
+	<attribute name="Scale" value="1 1 1" />
+	<node id="49">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Aim_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="50">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Aim_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="51">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Aimlock_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="52">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Aimlock_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="53">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Aimscrew_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="54">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Aimscrew_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="55">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="BackCar_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="56">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/BackCar_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="57">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="BackStock_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="58">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/BackStock_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="59">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Body_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="60">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Body_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="61">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="BodyStockLink_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="62">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/BodyStockLink_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="63">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Bolt_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="64">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Bolt_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="65">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="BoltCarrier_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="66">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/BoltCarrier_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="67">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Cev_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="68">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Cev_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="69">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Deo_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="70">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Deo_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="71">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Grip_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="72">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Grip_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="73">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="HandGuard_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="74">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/HandGuard_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="75">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Magazine_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="76">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Magazine_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="77">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Muzzle_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="78">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Muzzle_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="79">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Okidac_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="80">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Okidac_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="81">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="SaeftyLock_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="82">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/SaeftyLock_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="83">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Slider_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="84">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Slider_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="85">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Stock_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="86">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Stock_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="87">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="Trigger_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="88">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/Trigger_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="89">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="TriggerFrame_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="90">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/TriggerFrame_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="91">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="TriggerMagazine_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="92">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/TriggerMagazine_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+	<node id="93">
+		<attribute name="Is Enabled" value="true" />
+		<attribute name="Name" value="UpperReciver_low" />
+		<attribute name="Tags"><string value="Untagged" /></attribute>
+		<attribute name="Position" value="0 0 0" />
+		<attribute name="Rotation" value="1 0 0 0" />
+		<attribute name="Scale" value="1 1 1" />
+		<component type="StaticModel" id="94">
+			<attribute name="Model" value="Model;Weapons/AK47/AK57Mesh/UpperReciver_low.mdl" />
+			<attribute name="Material" value="Material;Weapons/AK47/AK57Mesh/lambert1.xml" />
+			<attribute name="Cast Shadows" value="true" />
+		</component>
+	</node>
+</node>
