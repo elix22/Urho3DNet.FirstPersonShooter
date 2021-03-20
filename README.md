@@ -9,3 +9,7 @@ First person shooter sample for Urho3DNet
 
 RPG/FPS Game Assets for PC/Mobile (Industrial Set v3.0) is licensed under a
 Creative Commons Attribution 4.0 International License.
+
+"Adaptive Combat Rifle" (https://skfb.ly/PABR) by doomsentinel is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"AK-47" (https://skfb.ly/6QUYv) by MihailoJova is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
